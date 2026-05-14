@@ -5,7 +5,7 @@ If you are copying this code or forking this repo, please give a credit of my na
 
 ## Instructions 🛠️
 
-Go to www.Sayemhaque.me/ and rate it :)
+Go to www.Sayem.me/ and rate it :)
 
 **Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
 
